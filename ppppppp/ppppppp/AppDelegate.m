@@ -16,10 +16,6 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    NSLog(@"11111111111111");
-    NSLog(@"22222222222");
-    NSLog(@"333333333333333");
-    NSLog(@"3444444444");
     NSLog(@"5555555555555");
     NSLog(@"77777777777777");
     return YES;
